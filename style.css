@@ -1,0 +1,19 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
+/*image*/
+img {
+    height: 100%;
+    width: 50%;
+}
+body {
+    font-family: 'Lato', sans-serif;
+}
+ul {
+    list-style-type: none;
+}
+a {
+    text-decoration: none;
+}
+.footer {
+    color: rgba(125, 135, 142, 1);
+}
